@@ -1,2 +1,4 @@
+build
 dist
 Dockerfile
+sphinxcontrib_aafig.egg-info
